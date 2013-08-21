@@ -1,0 +1,22 @@
+{
+  "name": "Zepp-web-testing",
+  "version": "0.0.1",
+  "dependencies": {
+    "selenium-webdriver": "~2.35.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "description": "",
+  "main": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": "",
+  "author": "",
+  "license": ""
+}
